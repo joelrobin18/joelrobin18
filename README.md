@@ -11,15 +11,10 @@
 
 [![website](./img/globe-light.svg)](https://joelrobin18.github.io/portfolio/)
 [![website](./img/globe-dark.svg)](https://joelrobin18.github.io/portfolio/)
-<!-- [![website](./img/youtube-light.svg)]()
-[![website](./img/youtube-dark.svg)]()
-&nbsp;&nbsp; -->
 [![website](./img/twitter-light.svg)](https://twitter.com/imjoelrobin18)
 [![website](./img/twitter-dark.svg)](https://twitter.com/imjoelrobin18)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/joel-robin-p-446143212/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joel-robin-p-446143212/)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_joel._.robin_/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_joel._.robin_/)
 
