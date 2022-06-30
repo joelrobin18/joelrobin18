@@ -11,7 +11,6 @@
 
 [![website](./img/globe-light.svg)](https://joelrobin18.github.io/portfolio/)
 [![website](./img/globe-dark.svg)](https://joelrobin18.github.io/portfolio/)
-&nbsp;&nbsp;
 <!-- [![website](./img/youtube-light.svg)]()
 [![website](./img/youtube-dark.svg)]()
 &nbsp;&nbsp; -->
