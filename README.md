@@ -10,13 +10,39 @@ I’m passionate about transforming complex problems into simple, intuitive, and
 
 ---
 
-## 🚀 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelrobin18\&show_icons=true\&theme=radical\&include_all_commits=true\&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelrobin18\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelrobin18\&layout=compact\&theme=radical)
+<details open>
+  <summary align="center"><h2>📊 Stats and Activity</h2></summary>
+    <table>
+    <tr>
+        <td>
+        <a href="https://github.com/joelrobin18">
+            <img title="Joel Robin P's GitHub Streak Stats" alt="Joel's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=joelrobin18&theme=monokai-metallian&hide_border=true"/>
+        </a>
+        </td>
+        <td>
+        <a href="https://github.com/joelrobin18">
+            <img alt="Joel Robin 's Github Stats" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=joelrobin18&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+        </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+        <p align="center">
+            <a href="https://github.com/joelrobin18">
+            <img alt="Joel Robin P's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=joelrobin18&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+            </a>
+        </p>
+        </td>
+    </tr>
+      <tr>
+        <td colspan="2" align="center">
+        <a href="https://github.com/joelrobin18">
+            <img alt="Joel Robin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelrobin18&layout=compact&theme=radical&hide_border=true" />
+        </a>
+        </td>
+    </tr>
+    </table>
+</details>
 
 ---
 
