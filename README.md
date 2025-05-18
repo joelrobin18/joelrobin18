@@ -1,4 +1,4 @@
-# 👋 Hi, I'm \[Joel Robin P]!
+# 👋 Hi, I'm Joel Robin P!
 
 **AI & Software Enthusiast | Spark Engineer | Full Stack Developer | OSS Contributor 🚀**
 
@@ -28,7 +28,7 @@ I’m passionate about transforming complex problems into simple, intuitive, and
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <img alt="Joel Robin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelrobin18&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=F8D866&icon_color=F8D866" />
     </td>
   </tr>
@@ -90,14 +90,5 @@ I’m passionate about transforming complex problems into simple, intuitive, and
 
 ---
 
-## 📈 GitHub Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=joelrobin18\&theme=react-dark\&hide_border=true\&area=true)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=joelrobin18\&icon=2\&color=1)
-
----
 
 ✨ **Happy Coding!** ✨
