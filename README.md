@@ -75,6 +75,7 @@ I’m passionate about transforming complex problems into simple, intuitive, and
 ## 📚 Certifications
 
 * **Databricks Certified Associate Developer for Apache Spark**
+* **Databricks Certified Data Engineer Associate**
 
 ---
 
